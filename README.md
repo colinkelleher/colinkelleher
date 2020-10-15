@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋  I'm
 <p align="center">
-  <img src="header.png" width="350" title="hover text">
+  <img src="header.png"  title="Cover Image">
 </p>
 
 <!--
