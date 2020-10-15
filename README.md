@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="header.png" 
+![Alt text](colinkelleher/colinkelleher/header.png?raw=true "Title")
 
 <!--
 **colinkelleher/colinkelleher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
