@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm
 <p align="center">
-  <img src="header.png"  title="Cover Image">
+  <img src="header2.png"  title="Cover Image">
 </p>
 
 <!--
